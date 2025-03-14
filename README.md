@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este projeto irá avaliar o comentário de um usuário para um parque de diversões, em uma página web relacionada com o setor de turismo, através da análise de sentimentos do Azure (uma técnica de processamento de linguagem natural (PLN) que identifica o contraste das emoções em um texto).
+Este projeto irá avaliar o comentário de um usuário para um parque de diversões, em uma página web relacionada com o setor de turismo, através da análise de sentimentos do Azure (uma técnica de processamento de linguagem natural (PLN)), que identifica o contraste das emoções em um texto).
 
 
 

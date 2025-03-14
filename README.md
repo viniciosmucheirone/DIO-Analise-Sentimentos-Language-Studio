@@ -29,22 +29,22 @@ Identificar e classificar emoções em um texto de maneira automatizada, a fim d
 
 #### Retornou com a avaliação do Linguage Studio, com palavras-chave, indicando a variação de sentimentos do usuário, na qual 50% foi positivo e 50% negativo.
 <h1 align="center"> 
-    <img alt="Gobarber" src="Output/Imagem 2.png" />
+    <img alt="Gobarber" src="Output/imagem 2.png" />
 </h1>
 
 #### Em relação ao parque, funcionários e inclusão, o usuário ficou 100% satisfeito.
 <h1 align="center">
-    <img alt="Gobarber" src="Output/Imagem 3.png"/>
+    <img alt="Gobarber" src="Output/imagem 3.png"/>
 </h1>
 
 #### No entanto, aqui na sentença 2, o usuário tem ressalvas, demonstrando uma variação de sentimentos, entre positivo, neutro e negativo.
 <h1 align="center">
-    <img alt="Gobarber" src="Output/Imagem 4.png"/>
+    <img alt="Gobarber" src="Output/imagem 4.png"/>
 </h1>
 
 #### Nesta parte da avaliação, o usuário se mostra, através de palavras-chave, 99% insatisfeito com uma determinada situação e 1% neutro. 
 <h1 align="center">
-    <img alt="Gobarber" src="Output/Imagem 5.png"/>
+    <img alt="Gobarber" src="Output/imagem 5.png"/>
 </h1>
 
 ---
